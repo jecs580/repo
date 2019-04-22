@@ -9,7 +9,5 @@
 		}
 	}
 <center>
-![imagen jpg](s.jpg)
-<br>
 ![animacion](tenor.gif)
 </center>
