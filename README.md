@@ -8,3 +8,4 @@
 		print("beishu")
 		}
 	}
+[imagen jpg](s.jpg)
