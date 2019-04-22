@@ -9,6 +9,7 @@
 		}
 	}
 <center>
-[imagen jpg](s.jpg)<br>
-[animacion](tenor.gif)
+![imagen jpg](s.jpg)
+<br>
+![animacion](tenor.gif)
 </center>
