@@ -8,6 +8,6 @@
 		print("beishu")
 		}
 	}
-<center>
+<p align="center">
 	![animacion](tenor.gif)
-</center>
+</p>
