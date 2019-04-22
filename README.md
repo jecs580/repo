@@ -9,5 +9,5 @@
 		}
 	}
 <center>
-![animacion](tenor.gif)
+	![animacion](tenor.gif)
 </center>
