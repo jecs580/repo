@@ -8,5 +8,7 @@
 		print("beishu")
 		}
 	}
-[imagen jpg](s.jpg)
+<center>
+[imagen jpg](s.jpg)<br>
 [animacion](tenor.gif)
+</center>
